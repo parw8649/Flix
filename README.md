@@ -3,7 +3,7 @@ Flix is a movie browsing app--that fetches data from the web and displays it in 
 
 ## User Stories
 
-# Flix - Part I
+## Flix - Part I
 The following **required** functionality is completed:
 
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
